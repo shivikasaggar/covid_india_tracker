@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+.container {
+    position: absolute;
+    z-index: 99;
+    left:20%;
+    top:10%;
+    margin: auto;
+    overflow: hidden;
+}
+.frame{
+    width:714px;
+    height:410px;
+    overflow:hidden;
+}
