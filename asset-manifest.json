@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/shivikasaggar/covid_india_tracker.git/static/css/main.2dd3a3bc.chunk.css",
+    "main.js": "/shivikasaggar/covid_india_tracker.git/static/js/main.3ea10e03.chunk.js",
+    "main.js.map": "/shivikasaggar/covid_india_tracker.git/static/js/main.3ea10e03.chunk.js.map",
+    "runtime-main.js": "/shivikasaggar/covid_india_tracker.git/static/js/runtime-main.51269351.js",
+    "runtime-main.js.map": "/shivikasaggar/covid_india_tracker.git/static/js/runtime-main.51269351.js.map",
+    "static/js/2.4a447fb2.chunk.js": "/shivikasaggar/covid_india_tracker.git/static/js/2.4a447fb2.chunk.js",
+    "static/js/2.4a447fb2.chunk.js.map": "/shivikasaggar/covid_india_tracker.git/static/js/2.4a447fb2.chunk.js.map",
+    "index.html": "/shivikasaggar/covid_india_tracker.git/index.html",
+    "precache-manifest.c3479b18eb3db13f2c13d047e15c8ca6.js": "/shivikasaggar/covid_india_tracker.git/precache-manifest.c3479b18eb3db13f2c13d047e15c8ca6.js",
+    "service-worker.js": "/shivikasaggar/covid_india_tracker.git/service-worker.js",
+    "static/css/main.2dd3a3bc.chunk.css.map": "/shivikasaggar/covid_india_tracker.git/static/css/main.2dd3a3bc.chunk.css.map",
+    "static/js/2.4a447fb2.chunk.js.LICENSE.txt": "/shivikasaggar/covid_india_tracker.git/static/js/2.4a447fb2.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/shivikasaggar/covid_india_tracker.git/static/media/1.05d52988.png",
+    "static/media/2.png": "/shivikasaggar/covid_india_tracker.git/static/media/2.6cd18bc0.png",
+    "static/media/3.png": "/shivikasaggar/covid_india_tracker.git/static/media/3.ba75e0c9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51269351.js",
+    "static/js/2.4a447fb2.chunk.js",
+    "static/css/main.2dd3a3bc.chunk.css",
+    "static/js/main.3ea10e03.chunk.js"
+  ]
+}
